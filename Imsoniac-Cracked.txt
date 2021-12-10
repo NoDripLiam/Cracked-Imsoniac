@@ -1,6 +1,4 @@
 
---Cracked By Me -- Liam
---Discord:Liam!#6969
 local L_1_ = "t"
 local L_2_ = game.Players.LocalPlayer:GetMouse()
 L_2_.KeyDown:Connect(
